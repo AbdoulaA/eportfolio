@@ -618,6 +618,7 @@ span {
 
     .logo__pic {
         width: 100%;
+        max-width: 54.42px;
 
     }
 
